@@ -1,6 +1,6 @@
 # Hi, I'm Nick Sloan
 
-I’m the head of engineering at [Studioworks[(https://studioworks.app/), where we are helping creative businesses devote more energy to the creative and less to the business. Previously, I was the Head of Engineering at [Matter Neuroscience](https://matter.xyz), the co-founder of [UpContent](https://upcontent.com/), and the founder of the Pittsburgh Python User Group.
+I’m the head of engineering at [Studioworks](https://studioworks.app/), where we are helping creative businesses devote more energy to the creative and less to the business. Previously, I was the Head of Engineering at [Matter Neuroscience](https://matter.xyz), the co-founder of [UpContent](https://upcontent.com/), and the founder of the Pittsburgh Python User Group.
 
 I love software development and managing developers, and I’m at home as a part of a team of people working together to build something they love.
 
